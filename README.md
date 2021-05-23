@@ -1,7 +1,7 @@
 # github-branch-protect
 A simple web service listens for GitHub's org events to enable branch protection whenever a new repo is created. It also notifies you with an @mention in an issue within the repository
 
-## Usage
+## Setup
 - Install the following:
   - Python 3
   - Virtualenv
